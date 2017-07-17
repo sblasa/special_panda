@@ -1,9 +1,19 @@
 body {
     background-color: #cde2ff;
-    padding-left: 24px;
-    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 {
     color: #546E7A;
+}
+
+p {
+
+    line-height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+ 
+
 }
