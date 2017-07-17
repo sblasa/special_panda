@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: skyblue;
+}
+
+p {
+
+    margin-left: 10px;
+    line-height: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+ 
+
+}
